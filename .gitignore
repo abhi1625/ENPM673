@@ -1,0 +1,9 @@
+__pycache__
+*.py[cod]
+*$py.clash
+*.o
+*.so
+*.so.dSYM
+*.abhinav-pc
+Project1/output videos
+Project1/data
